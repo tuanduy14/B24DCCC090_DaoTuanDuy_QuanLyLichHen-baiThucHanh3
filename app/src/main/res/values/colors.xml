@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ptit_red">#C8102E</color>
+    <color name="ptit_red_dark">#9E0B23</color>
+    <color name="ptit_navy">#1B2B5B</color>
+    <color name="ptit_bg">#F4F5F9</color>
+    <color name="ptit_text">#1F2430</color>
+    <color name="ptit_text_sub">#6B7280</color>
+    <color name="ptit_border">#D9DCE5</color>
+</resources>
